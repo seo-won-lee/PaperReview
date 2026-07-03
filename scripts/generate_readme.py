@@ -23,10 +23,10 @@ lines = []
 lines.append("# Paper Reviews\n")
 
 lines.append(
-    "| Title | Keywords | Review |"
+    "| Title | Venue |Keywords | Review |"
 )
 lines.append(
-    "|---------|---------|---------|"
+    "|---------|---------|---------|---------|"
 )
 
 for paper in papers:
@@ -47,7 +47,7 @@ for paper in papers:
     review_md = f"[PDF]({review})"
 
     lines.append(
-        f"| {title_md} ({venue} {year}) | "
+        f"| {title_md} | {venue} {year} | "
         f" {keywords} | {review_md} |"
     )
 

@@ -1,0 +1,18 @@
+papers:
+- title: Cosmos3
+  year: 2026
+  venue: NVIDIA
+  url: https://arxiv.org/pdf/2606.02800
+  read_date: '2026-06-24'
+  keywords:
+  - World Model
+  review: reviews/260624_cosmos3.pdf
+- title: V-JEPA 2
+  year: 2025
+  venue: META
+  url: https://arxiv.org/pdf/2506.09985
+  read_date: '2026-07-01'
+  keywords:
+  - World Model
+  review: reviews/260701_V-JEPA2.pdf
+

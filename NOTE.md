@@ -20,7 +20,9 @@ Do NOT edit README.md directly.
 1. Add PDF to `reviews/`
 2. Run:
 
-```python scripts/add_paper.py```
+```
+python scripts/add_paper.py
+```
 
 3. Commit & Push
 
@@ -30,7 +32,9 @@ Do NOT edit README.md directly.
 
 If metadata.yaml is **modified manually**:
 
-```python scripts/generate_readme.py```
+```
+python scripts/generate_readme.py
+```
 
 Then commit & push.
 

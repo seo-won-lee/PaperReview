@@ -20,7 +20,7 @@ Do NOT edit README.md directly.
 1. Add PDF to `reviews/`
 2. Run:
 
-`python scripts/add_paper.py`
+python scripts/add_paper.py
 
 3. Commit & Push
 
